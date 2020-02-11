@@ -4,12 +4,10 @@ A Telegram bot written in Python that sends out a personalised good morning mess
 
 ## To use, search for @good_morning_zaoshanghao_bot on Telegram.
 
+## NOTE: this bot no longer delivers daily messages, possibly due to changes in the Telegram or Reddit APIs. I have not had time to fix it.
 
 ### Introduction
 
-Originally, I wrote this bot to send a good morning message to my girlfriend every morning, because she always wakes up
-much earlier than me.
-That was about 3-4 months ago. Recently, I decided to revisit this little project and rewrite the bot for a wider audience.
 
 I added an SQLite database to record each individual user's settings, and expanded the features of the bot significantly.
 I turned the code from what was originally, to be perfectly honest, a bit of a mess, into a more clean and functional setup.
